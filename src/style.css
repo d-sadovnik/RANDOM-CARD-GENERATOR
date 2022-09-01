@@ -1,1 +1,26 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background: green;
+}
+
+.contenedor {
+  color: black;
+  background: white;
+  border-radius: 15px;
+  width: 350px;
+  position: relative;
+  margin: 400px;
+}
+
+.num {
+  font-size: 100px;
+}
+#symbol {
+  margin-left: 5%;
+}
+#numero {
+  margin-left: 40%;
+}
+#symbol2 {
+  margin-left: 70%;
+}
